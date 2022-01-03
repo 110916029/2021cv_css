@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+}
+
+.divpurple{
+    background-color: rgb(237, 210, 243);
+}
+
+.divyellow{
+    background-color: rgb(255, 252, 220);
+}
+
+.divlightblue{
+    background-color: rgb(132, 223, 255);
+}
+
+.divgray{
+    background-color: rgb(119, 116, 116);
+}
+
+.headphoto{
+    border-radius: 50%;
+}
+
+.button {
+    background: #e66465;
+    background-image: -webkit-linear-gradient(top, #e66465, #9198e5);
+    background-image: -moz-linear-gradient(top, #e66465, #9198e5);
+    background-image: -ms-linear-gradient(top, #e66465, #9198e5);
+    background-image: -o-linear-gradient(top, #e66465, #9198e5);
+    background-image: linear-gradient(to bottom, #e66465, #9198e5);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #EDD2F3;
+    font-size: 40px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .button:hover {
+    background: #9198e5;
+    background-image: -webkit-linear-gradient(top, #9198e5, #e66465);
+    background-image: -moz-linear-gradient(top, #9198e5, #e66465);
+    background-image: -ms-linear-gradient(top, #9198e5, #e66465);
+    background-image: -o-linear-gradient(top, #9198e5, #e66465);
+    background-image: linear-gradient(to bottom, #9198e5, #e66465);
+    text-decoration: none;
+  }
+
+h1{
+    font-size: 50px
+}
+
+.text20{
+    font-size: 20px;
+}
+
+.text50{
+    font-size: 50px;
+}
